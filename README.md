@@ -10,9 +10,9 @@
 
 <p align="left"> <a href="https://twitter.com/laudious" target="blank"><img src="https://img.shields.io/twitter/follow/laudious?logo=twitter&style=for-the-badge" alt="laudious" /></a> </p>
 
-- 🔭 I’m currently working on [Ebefa](www.3b3fa.com)
+- 🔭 I’m currently working on [Ebefa](www.ebefa.com)
 
-- 🌱 I’m currently learning **Blockchain, Solidity, Flutter, NextJs, DevOps**
+- 🌱  **Blockchain, Solidity, Flutter, NextJs, DevOps**
 
 - 👨‍💻 All of my projects are available at [https://github.com/claudioussamuel/](https://github.com/claudioussamuel/)
 
